@@ -1,0 +1,45 @@
+{
+  "name": "back2you",
+  "version": "1.0.0",
+  "description": "A modern, intelligent lost and found platform that helps reunite people with their lost belongings",
+  "keywords": [
+    "lost-and-found",
+    "community",
+    "recovery",
+    "matching-algorithm",
+    "nodejs",
+    "react",
+    "mysql"
+  ],
+  "author": {
+    "name": "Nandini Sharma",
+    "url": "https://github.com/NandiniSharma2-2"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NandiniSharma2-2/Back2You.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NandiniSharma2-2/Back2You/issues"
+  },
+  "homepage": "https://github.com/NandiniSharma2-2/Back2You#readme",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "build": "cd frontend && npm run build",
+    "test": "cd backend && npm test",
+    "migrate": "cd backend && npm run migrate",
+    "seed": "cd backend && npm run seed",
+    "setup": "npm run install:all && npm run migrate && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
