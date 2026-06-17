@@ -20,16 +20,20 @@ A modern, intelligent lost and found platform that helps reunite people with the
 
 ## 🖼️ Screenshots
 
-> **Note**: Screenshots are available in the `/screenshots` directory. To view them, please check the [SCREENSHOTS.md](./SCREENSHOTS.md) file for detailed visual documentation.
+### Landing Page
+![Landing Page](./screenshots/landing-page.png)
 
-### Key Features Showcased:
-- **🏠 Landing Page**: Modern futuristic design with animated backgrounds and interactive elements
-- **📝 Report Lost Item**: Intuitive form for reporting lost belongings with detailed categorization  
-- **🔍 Report Found Item**: Easy-to-use interface for reporting found items to help others
-- **🔔 Notifications System**: Real-time notification system for matching alerts and updates
-- **📦 Found Items Dashboard**: Clean dashboard to manage your found item reports
+### Report Lost Item
+![Report Lost Item](./screenshots/report-lost-item.png)
 
-*For detailed visual tour with full screenshots, see [SCREENSHOTS.md](./SCREENSHOTS.md)*
+### Report Found Item
+![Report Found Item](./screenshots/report-found-item.png)
+
+### Notifications System
+![Notifications System](./screenshots/notifications.png)
+
+### Found Items Dashboard
+![Found Items Dashboard](./screenshots/found-items.png)
 
 ## 🚀 Tech Stack
 
