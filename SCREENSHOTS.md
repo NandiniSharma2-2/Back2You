@@ -2,8 +2,30 @@
 
 This document provides a visual tour of the Back2You Lost & Found Platform, showcasing its modern interface and key features.
 
+## 📸 How to Add Screenshots
+
+To display the actual application screenshots:
+
+1. **Save your screenshots** with these exact names:
+   - `landing-page.png` - Landing page screenshot
+   - `report-lost-item.png` - Report lost item form screenshot  
+   - `report-found-item.png` - Report found item form screenshot
+   - `notifications.png` - Notifications system screenshot
+   - `found-items.png` - Found items dashboard screenshot
+
+2. **Place them in the `screenshots/` directory**
+
+3. **Update this file** by replacing the placeholder text with:
+   ```markdown
+   ![Description](./screenshots/filename.png)
+   ```
+
+4. **Commit and push** the changes to GitHub
+
+---
+
 ## 🏠 Landing Page
-![Landing Page](./screenshots/landing-page.png)
+**File**: `screenshots/landing-page.png` *(Add your landing page screenshot here)*
 
 **Features Shown:**
 - Modern futuristic design with animated particle backgrounds
@@ -23,7 +45,7 @@ This document provides a visual tour of the Back2You Lost & Found Platform, show
 ---
 
 ## 📝 Report Lost Item
-![Report Lost Item](./screenshots/report-lost-item.png)
+**File**: `screenshots/report-lost-item.png` *(Add your report lost item screenshot here)*
 
 **Features Shown:**
 - Clean, intuitive form design
@@ -43,7 +65,7 @@ This document provides a visual tour of the Back2You Lost & Found Platform, show
 ---
 
 ## 🔍 Report Found Item
-![Report Found Item](./screenshots/report-found-item.png)
+**File**: `screenshots/report-found-item.png` *(Add your report found item screenshot here)*
 
 **Features Shown:**
 - Similar interface to lost item reporting
@@ -62,7 +84,7 @@ This document provides a visual tour of the Back2You Lost & Found Platform, show
 ---
 
 ## 🔔 Notifications System
-![Notifications System](./screenshots/notifications.png)
+**File**: `screenshots/notifications.png` *(Add your notifications screenshot here)*
 
 **Features Shown:**
 - Real-time notification center
@@ -81,7 +103,7 @@ This document provides a visual tour of the Back2You Lost & Found Platform, show
 ---
 
 ## 📦 Found Items Dashboard
-![Found Items Dashboard](./screenshots/found-items.png)
+**File**: `screenshots/found-items.png` *(Add your found items dashboard screenshot here)*
 
 **Features Shown:**
 - "My Found Items" dashboard section
